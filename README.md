@@ -24,7 +24,9 @@ This repository provides a Python script to solve the Elliptic Curve Discrete Lo
 
 ## Donation
 If you find the program useful and want to support its development, please donate to the following Ethereum address:
+
 Ethereum address: 0x5CD8E5F5E2750B1bBA9ac41970019a3DB8052Fa5
+
 Your donations help keep the project active and contribute to its maintenance and continuous improvements. We appreciate your support!
 
 ## Usage
