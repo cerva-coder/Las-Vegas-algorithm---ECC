@@ -22,6 +22,11 @@ This repository provides a Python script to solve the Elliptic Curve Discrete Lo
 - `--nprime` (integer): Denoted \(n'\), bounds the total degree of monomials. Larger values increase the dimension of the search space and probability of success per trial, at the cost of heavier linear algebra.
 - `l` and `k`: Internally set to \(3 n'\). The matrix dimensions and sparsity conditions depend on this choice.
 
+## Donation
+If you find the program useful and want to support its development, please donate to the following Ethereum address:
+Ethereum address: 0x5CD8E5F5E2750B1bBA9ac41970019a3DB8052Fa5
+Your donations help keep the project active and contribute to its maintenance and continuous improvements. We appreciate your support!
+
 ## Usage
 
 ```bash
@@ -30,3 +35,4 @@ python las_vegas_ecdlp.py <compressed_pubkey_hex> --nprime 2
 
 # Example
 python las_vegas_ecdlp.py 02e0a8b039282faf6fe0fd769cfbc4b6b4cf8758ba68220eac420e32b91ddfa673 --nprime 5
+
