@@ -1,5 +1,4 @@
-# A Las Vegas Algorithm to Solve the Elliptic Curve Discrete Logarithm Problem
-# ECDLP Solver (secp256k1)
+# A Las Vegas Algorithm to Solve the Elliptic Curve Discrete Logarithm Problem ECDLP Solver (secp256k1)
 
 This repository provides a Python script to solve the Elliptic Curve Discrete Logarithm Problem (ECDLP) on secp256k1 using a randomized Las Vegas algorithm (https://arxiv.org/pdf/1703.07544) and multiprocessing for performance.
 
