@@ -36,5 +36,5 @@ Your donations help keep the project active and contribute to its maintenance an
 python las_vegas_ecdlp.py <compressed_pubkey_hex> --nprime 2
 
 # Example
-python las_vegas_ecdlp.py 02e0a8b039282faf6fe0fd769cfbc4b6b4cf8758ba68220eac420e32b91ddfa673 --nprime 5
+python las_vegas_ecdlp.py 02e0a8b039282faf6fe0fd769cfbc4b6b4cf8758ba68220eac420e32b91ddfa673 --nprime 2
 
